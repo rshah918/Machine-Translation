@@ -1,6 +1,8 @@
 # Machine-Translation
 Training + inference code to translate English to Spanish using a Transformer neural net in PyTorch. 
 
+**NOTE: The weights file is too big for Github (200MB). Run the training script locally before using the model**
+
 ## Usage
 
 ### To Translate:
